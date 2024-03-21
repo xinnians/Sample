@@ -1,4 +1,6 @@
 package com.example.sample.page
 
-class VoiceChatListFragment {
+import androidx.fragment.app.Fragment
+
+class VoiceChatListFragment : Fragment(){
 }

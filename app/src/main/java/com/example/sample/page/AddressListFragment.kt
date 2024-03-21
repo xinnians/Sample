@@ -1,4 +1,6 @@
 package com.example.sample.page
 
-class AddressListFragment {
+import androidx.fragment.app.Fragment
+
+class AddressListFragment : Fragment(){
 }
